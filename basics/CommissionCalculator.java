@@ -9,7 +9,7 @@ public class CommissionCalculator {
        //initialize commission with a default value of 0.0
       double commission = 0.0;
 
-      
+      //Processing
         if (salesAmount < 200 ) {
             commission = 0.10 * salesAmount;
             
