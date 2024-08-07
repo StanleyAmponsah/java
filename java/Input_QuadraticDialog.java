@@ -30,8 +30,3 @@ public class Input_QuadraticDialog {
         
     }
 }
-
-
-double T = 3.142 / ( t + 1 );
-
-System.out
